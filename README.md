@@ -1,4 +1,4 @@
-[![Header](https://github.com/Merkucios/merkucios/blob/master/Assets/Logo.png)](https://www.youtube.com/channel/UCSvdykDQKTLb3TLEs5KXp7Q)
+[![Header](https://github.com/Merkucios/merkucios/blob/main/Assets/Logo.png)](https://www.youtube.com/channel/UCSvdykDQKTLb3TLEs5KXp7Q)
 
 ## I am begginer Software Engineer and Game Developer 🦧
 
