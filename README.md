@@ -12,6 +12,9 @@ A third-year student majoring in <i>"Programming in Computer Systems</i>"👨�
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Как подключить WINDOWS и LINUX к Active Directory](https://www.youtube.com/watch?v=i3u2FGTk-gw)
+- [Как ПОДКЛЮЧИТЬ джойстик к ЛЮБОЙ игре](https://www.youtube.com/watch?v=F8zBw1_5g6o)
+- [How to install Wine on FreeBSD 13+](https://www.youtube.com/watch?v=VlwEKWBPwAY)
 <!-- YOUTUBE:END -->
 
 ### Languages and Tools
