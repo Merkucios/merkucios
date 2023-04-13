@@ -36,9 +36,7 @@ A third-year student majoring in <i>"Programming in Computer Systems</i>"ğŸ‘¨ğŸ
 <b> My stats </b>
 </h2>
 
-
-<img align="left" alt="Merkucios Github Stats" src="https://merkucios-merkucios.vercel.app/api?username=Merkucios&show_icons=true&hide_border=true"/>
- 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Merkucios&show_icons=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Merkucios&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="center">
