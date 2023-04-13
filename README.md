@@ -42,7 +42,7 @@ A third-year student majoring in <i>"Programming in Computer Systems</i>"ğŸ‘¨ğŸ
 
 <h2 align="center">
     LeetCode
-    
+
 [![Merkucios LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Merkucios&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 </h2>
