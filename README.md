@@ -1,6 +1,14 @@
 [![Header](https://github.com/Merkucios/merkucios/blob/main/Assets/Logo.png)](https://www.youtube.com/channel/UCSvdykDQKTLb3TLEs5KXp7Q)
 
-## I am begginer Software Engineer and Game Developer 🦧
+<h1 align="center">
+I am begginer Software Engineer and Game Developer 🦧
+</h1>
+<h2 align="center">
+If you have found something useful for yourself, I was glad to help! The programming community is unlimited!
+</h2>
+<h3 align="right">
+A third-year student majoring in <i>"Programming in Computer Systems</i>"👨🏻‍💻
+</h3>
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
@@ -19,3 +27,19 @@
 [![Telegram](https://img.shields.io/badge/Telegram-011?style=for-the-badge&logo=telegram&logoWidth=25&logoColor=0878F9)](https://t.me/Merkuri13s)
 [![Vkontakte](https://img.shields.io/badge/Vkontakte-011?style=for-the-badge&logo=Vk&logoWidth=25&logoColor=1D6ECB)](https://vk.com/moizakatlubvy)
 [![Steam](https://img.shields.io/badge/Steam-011?style=for-the-badge&logo=steam&logoWidth=25&logoColor=white)](https://steamcommunity.com/id/deer_beer)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-011?style=for-the-badge&logoWidth=25&logo=LeetCode&logoColor=yellow)](https://leetcode.com/Merkucios/)
+
+<h2 align="center">
+<b> My stats </b>
+</h2>
+
+
+[![Merkucios GitHub stats](https://github-readme-stats.vercel.app/api?username=Merkucios&show_icons=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Merkucios&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2 align="center">
+    LeetCode
+    
+[![Merkucios LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Merkucios&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
+</h2>
