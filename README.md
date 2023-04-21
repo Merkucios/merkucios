@@ -32,6 +32,9 @@ A third-year student majoring in <i>"Programming in Computer Systems</i>"👨�
 [![Steam](https://img.shields.io/badge/Steam-011?style=for-the-badge&logo=steam&logoWidth=25&logoColor=white)](https://steamcommunity.com/id/deer_beer)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-011?style=for-the-badge&logoWidth=25&logo=LeetCode&logoColor=yellow)](https://leetcode.com/Merkucios/)
 
+### Certifications 🛠
+[![Certifications](https://github-readme-widgets.vercel.app/api?username=merkucios)](https://github.com/mechdeveloper/github-readme-widgets)
+
 <h2 align="center">
 <b> My stats </b>
 </h2>
