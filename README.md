@@ -32,7 +32,7 @@ A third-year student majoring in <i>"Programming in Computer Systems</i>"👨�
 [![Steam](https://img.shields.io/badge/Steam-011?style=for-the-badge&logo=steam&logoWidth=25&logoColor=white)](https://steamcommunity.com/id/deer_beer)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-011?style=for-the-badge&logoWidth=25&logo=LeetCode&logoColor=yellow)](https://leetcode.com/Merkucios/)
 
-<h2 align=center><font size=+2><i>Certifications 🏹</i></font> 
+<h2 align=center><font size=+2><i>Badges 🏹</i></font> 
 <center>
 
 [![Unity Essentials](https://images.credly.com/size/150x150/images/2ebece18-451f-4f69-868a-9b5edac57567/image.png)](https://www.credly.com/badges/52bbd4b4-44c7-4ee6-bba4-82bdf4141fd5/ "Unity Essentials")
