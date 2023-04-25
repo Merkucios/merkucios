@@ -44,7 +44,7 @@ A third-year student majoring in <i>"Programming in Computer Systems</i>"ğŸ‘¨ğŸ
 </h2>
 
 [![Merkucios GitHub stats](https://github-readme-stats.vercel.app/api?username=Merkucios&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Merkucios&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Merkucios&theme=buefy&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
