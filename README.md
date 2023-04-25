@@ -36,6 +36,7 @@ A third-year student majoring in <i>"Programming in Computer Systems</i>"ğŸ‘¨ğŸ
 <center>
 
 [![Unity Essentials](https://images.credly.com/size/150x150/images/2ebece18-451f-4f69-868a-9b5edac57567/image.png)](https://www.credly.com/badges/52bbd4b4-44c7-4ee6-bba4-82bdf4141fd5/ "Unity Essentials")
+[![Data Science Foundations Level One](https://images.credly.com/size/150x150/images/5ca7b236-6105-4154-ba22-c8ae12ec1d8c/Data_Sci_Found_Level_1_-_CC_-_2019.png)](https://www.credly.com/badges/218b9d8c-e41f-4fc0-980e-f7420202d4de/)
 </center>
 
 <h2 align="center">
