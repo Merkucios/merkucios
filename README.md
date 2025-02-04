@@ -72,12 +72,9 @@ Hey there! I'm a **Software Engineer** and **Game Developer** who loves to learn
 ![Merkucios GitHub stats](https://github-readme-stats.vercel.app/api?username=Merkucios&theme=buefy&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Merkucios&theme=buefy&layout=compact&hide_border=true)
 
-### 🏆 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Merkucios&theme=buefy)](https://git.io/streak-stats)
-    
 <h2 align="center">
     LeetCode
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Merkucios?theme=light&font=Paprika&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Merkucios?theme=light&font=Paprika)
 </h2>
 
